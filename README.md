@@ -1,7 +1,7 @@
 
 # AMBERITA HUB
 ### My Favorites
-1. Music🎼
+1. Music :music staff:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sk0QCtUbyDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -11,4 +11,4 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKL0erZSAdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Snacks🍱
+2. Snacks :yummy:
