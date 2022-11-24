@@ -13,4 +13,5 @@
 
 2. Snacks 🌭 🍔 🍟 🍕
 
-![alt text](https://www.foxyfolksy.com/wp-content/uploads/2016/06/puto-with-cheese.jpg.jpg)
+![image](https://user-images.githubusercontent.com/118243982/203692110-a5838ba8-6010-4b1f-8644-c3dc6d2aaa3f.png)
+
