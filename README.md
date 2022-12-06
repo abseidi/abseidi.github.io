@@ -1,7 +1,7 @@
 
 # AMBERITA HUB
 ### My Favorites
-Music 🎧 🎼 
+## Music 🎧 🎼 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sk0QCtUbyDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -11,7 +11,7 @@ Music 🎧 🎼
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKL0erZSAdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Snacks 🌭 🍔 🍟 🍕
+## Snacks 🌭 🍔 🍟 🍕
 
 ![image](https://user-images.githubusercontent.com/118243982/203692110-a5838ba8-6010-4b1f-8644-c3dc6d2aaa3f.png)
 
@@ -21,7 +21,7 @@ Snacks 🌭 🍔 🍟 🍕
 
 ![image](https://user-images.githubusercontent.com/118243982/203693023-f807c36c-6325-4b91-8fbf-2309bd006fa2.png)
 
-Fave artists/bands
+## Fave artists/bands 🎤🎸
 
 ![image](https://user-images.githubusercontent.com/118243982/205815421-a9aa21d6-37f7-4cef-85cc-d842f5dc779d.png)
 
